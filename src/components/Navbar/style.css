@@ -1,0 +1,5 @@
+.Navbar{
+    padding: 20px;
+    background-image: linear-gradient(45deg,#da2316, #ff4236,#ee645a,#f8766c,#ff4236,#da2316);/*#ff4236;*/
+    color: white;
+}
